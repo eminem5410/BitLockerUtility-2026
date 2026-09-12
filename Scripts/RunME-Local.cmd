@@ -1,0 +1,3 @@
+@Echo OFF
+title Loading...
+powershell -NoProfile -ExecutionPolicy Bypass -File ".\BitLockerUtility.ps1"
