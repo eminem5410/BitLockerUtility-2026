@@ -28,4 +28,4 @@ A PowerShell-based tool to manipulate BitLocker from a WinPE Environment. Ideal 
 
 ## 👥 Credits
 - Original Author: Carlos Martinez (@cmartinezone) - 2019
-- Modernized by: Pablo & AI - 2024
+- Modernized by: Pablo Diez - 2026
